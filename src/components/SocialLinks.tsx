@@ -22,7 +22,7 @@ const SocialLinks = () => {
         <Instagram size={28} />
       </a>
       <a
-        href="https://linkedin.com/in/aaravsagar"
+        href="hhttps://www.linkedin.com/in/aarav-sagar-99a6422b8/"
         className="text-green-400 hover:text-green-300 transition-all duration-300 
                    transform hover:scale-110 hover:shadow-[0_0_20px_rgba(34,197,94,0.5)]"
         target="_blank"
